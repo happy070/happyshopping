@@ -1,0 +1,47 @@
+.parent{
+  max-height: 120px;
+  border: 1px solid gray;
+  display: flex;
+  overflow-x: auto;
+}
+.parent .item{
+  min-width: 100px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  background-color: aliceblue;
+}
+.image{
+  min-width: 100px;
+  height: 100px;
+  line-height: 100px;
+  margin: 45pxpx;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+  
+  .carousel-inner{
+    margin-top: 20px;
+  }
+  body{
+    background-color: gray);
+  }
+  .box{
+    background-color: rgb(255, 200, 0);
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-bottom: 2px;
+    height: 40px;
+    padding-top: 5px;
+    padding-left: 10px;
+    border-radius: 5px;
+  }
+  #temp{
+    margin: auto;
+  }
+  
+
+
+
+
+   
